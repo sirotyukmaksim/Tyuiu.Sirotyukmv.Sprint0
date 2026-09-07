@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37614.0 d17.14
+VisualStudioVersion = 17.14.37614.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task0", "task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.sirotyukmv.sprint0.task0.v0", "..\Tyuiu.sirotyukmv.sprint0.task0.v0\Tyuiu.sirotyukmv.sprint0.task0.v0.csproj", "{261917EF-152B-4E74-BF3A-03B4F62FBDCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task1", "task1", "{24554D1A-D7CC-4284-B2F5-3406D81C77BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Sirotyukmv.Sprint0.Task1.V0", "Tyuiu.Sirotyukmv.Sprint0.Task1.V0\Tyuiu.Sirotyukmv.Sprint0.Task1.V0.csproj", "{E8978492-086F-48D4-B580-2137E6752466}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{261917EF-152B-4E74-BF3A-03B4F62FBDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{261917EF-152B-4E74-BF3A-03B4F62FBDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{261917EF-152B-4E74-BF3A-03B4F62FBDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8978492-086F-48D4-B580-2137E6752466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8978492-086F-48D4-B580-2137E6752466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8978492-086F-48D4-B580-2137E6752466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8978492-086F-48D4-B580-2137E6752466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{261917EF-152B-4E74-BF3A-03B4F62FBDCA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E8978492-086F-48D4-B580-2137E6752466} = {24554D1A-D7CC-4284-B2F5-3406D81C77BF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC322E5F-D3D1-4676-BA84-11967EFB3496}
